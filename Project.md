@@ -8,11 +8,11 @@
 3. [2,6,16,18,22,27]
 
 
-2. Big-O : n^2
+2. Big-O : 6^2
 
 
 
-3. Time Complexity : O(n^2)
+3. Time Complexity : O(6^2)
 
 
 4. Average Case
